@@ -20,11 +20,6 @@ Import:
 import linkup "github.com/raezil/linkup-go/linkup"
 ```
 
-### CLI (from this repo)
-```bash
-go run . help
-```
-
 ---
 
 ## Quick Start (SDK)
